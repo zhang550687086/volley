@@ -1,0 +1,189 @@
+10
+
+dir
+0
+svn://192.168.1.201/app_svn/svn_db/app_svn/GenvanaProject/android-volley-master/src/main/java/com/android/volley
+svn://192.168.1.201/app_svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dad78ce4-4596-8b40-a8e1-1ba2975c55ed
+
+AuthFailureError.java
+file
+
+
+
+add
+
+Cache.java
+file
+
+
+
+add
+
+CacheDispatcher.java
+file
+
+
+
+add
+
+DefaultRetryPolicy.java
+file
+
+
+
+add
+
+ExecutorDelivery.java
+file
+
+
+
+add
+
+InternalUtils.java
+file
+
+
+
+add
+
+Network.java
+file
+
+
+
+add
+
+NetworkDispatcher.java
+file
+
+
+
+add
+
+NetworkError.java
+file
+
+
+
+add
+
+NetworkResponse.java
+file
+
+
+
+add
+
+NoConnectionError.java
+file
+
+
+
+add
+
+ParseError.java
+file
+
+
+
+add
+
+RedirectError.java
+file
+
+
+
+add
+
+Request.java
+file
+
+
+
+add
+
+RequestQueue.java
+file
+
+
+
+add
+
+Response.java
+file
+
+
+
+add
+
+ResponseDelivery.java
+file
+
+
+
+add
+
+RetryPolicy.java
+file
+
+
+
+add
+
+ServerError.java
+file
+
+
+
+add
+
+TimeoutError.java
+file
+
+
+
+add
+
+VolleyError.java
+file
+
+
+
+add
+
+VolleyLog.java
+file
+
+
+
+add
+
+toolbox
+dir
+
+
+
+add
+

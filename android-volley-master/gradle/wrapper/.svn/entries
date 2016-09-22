@@ -1,0 +1,49 @@
+10
+
+dir
+0
+svn://192.168.1.201/app_svn/svn_db/app_svn/GenvanaProject/android-volley-master/gradle/wrapper
+svn://192.168.1.201/app_svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dad78ce4-4596-8b40-a8e1-1ba2975c55ed
+
+gradle-wrapper.jar
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+gradle-wrapper.properties
+file
+
+
+
+add
+

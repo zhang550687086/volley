@@ -1,0 +1,147 @@
+10
+
+dir
+0
+svn://192.168.1.201/app_svn/svn_db/app_svn/GenvanaProject/android-volley-master
+svn://192.168.1.201/app_svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dad78ce4-4596-8b40-a8e1-1ba2975c55ed
+
+.gitignore
+file
+
+
+
+add
+
+Android.mk
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+android-volley-master.iml
+file
+
+
+
+add
+
+build.gradle
+file
+
+
+
+add
+
+build.xml
+file
+
+
+
+add
+
+custom_rules.xml
+file
+
+
+
+add
+
+deploy.sh
+file
+
+
+
+add
+
+gradle
+dir
+
+
+
+add
+
+gradle.properties
+file
+
+
+
+add
+
+gradlew
+file
+
+
+
+add
+
+gradlew.bat
+file
+
+
+
+add
+
+pom.xml
+file
+
+
+
+add
+
+proguard-project.txt
+file
+
+
+
+add
+
+proguard.cfg
+file
+
+
+
+add
+
+rules.gradle
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
